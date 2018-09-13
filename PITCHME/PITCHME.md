@@ -29,11 +29,17 @@
 
 唐突ですが
 
-私が今まで触ってきた言語一覧 |
+---
+
+私が
+
+### これまで触ってきた言語一覧
+
+を紹介します
 
 ---
 
-### 今まで触ってきた言語
+### これまで触ってきた言語一覧
 
 | 現場 | 言語
 |:--|:--
@@ -51,13 +57,53 @@
 
 ---
 
-### どの現場で活かせる？
+## どの現場で活かせる？
+
+---
+
+| 現場 | 言語
+|:--|:--
+|iOSアプリ開発|Swift, Objective-C
+|Androidアプリ開発|Java
+|Webサイト開発|Java, JavaScript, PHP
+|Webバックエンド開発|Perl, Bash
+|Windowsパッケージソフトウェア開発|Visual Basic .NET
+|Windowsクライアントアプリ開発|C++, C#
+|組み込み|C
+
+|（趣味）
+|:--|:--
+|Ruby, Python, Kotlin, ActionScript, AppleScript
+
+---
+
+| 現場 | 言語
+|:--|:--
+|<font color="red">iOSアプリ開発|<font color="red">Swift, Objective-C
+|<font color="red">Androidアプリ開発|<font color="red">Java
+|<font color="red">Webサイト開発|<font color="red">Java, JavaScript, PHP
+|<font color="red">Webバックエンド開発|<font color="red">Perl, Bash
+|<font color="red">Windowsパッケージソフトウェア開発|<font color="red">Visual Basic .NET
+|<font color="red">Windowsクライアントアプリ開発|<font color="red">C++, C#
+|<font color="red">組み込み|<font color="red">C
+
+|（趣味）
+|:--|:--
+|Ruby, Python, Kotlin, ActionScript, AppleScript
+
+
+---
 
 言語・フレームワーク問わず、  
 
 ## 全てに使える話！
 
-※その分抽象的な部分も多いですが、できるだけ噛み砕いて紹介します
+@ul[squares]
+
+- Ruby, Pythonでは使えないわけではないです
+- **「趣味」** で一人で開発する時はあまり向かないだけ
+
+@ulend
 
 ---
 
