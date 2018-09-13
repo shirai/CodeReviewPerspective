@@ -5,7 +5,7 @@
 #### 「将来を見据えた息の長いコードを残す」ための<br>　判断基準<br><br>
 
 <div style="text-align: right;">
-白井 誠
+白井 誠  
 
 [@fa[github]@shirai](https://github.com/shirai)  
 [@fa[twitter]@shirai_makoto](https://twitter.com/shirai_makoto)
