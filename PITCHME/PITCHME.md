@@ -4,11 +4,14 @@
 
 #### 「将来を見据えた息の長いコードを残す」ための<br>　判断基準<br><br>
 
+<div style="text-align: right">
 
 |![icon](https://user-images.githubusercontent.com/16277668/41948274-ebbee344-79f6-11e8-8f2a-57fe6e2bf4ee.jpg)|白井 誠
 |:--|:--
 ||[@fa[github]@shirai](https://github.com/shirai)|
 ||[@fa[twitter]@shirai_makoto](https://twitter.com/shirai_makoto)|
+
+</div>
 
 
 
