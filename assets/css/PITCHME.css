@@ -88,10 +88,10 @@ div.activity-details {
 .reveal table {
   font-size: 0.75em;
 }
-
+/* 
 .reveal table th, .reveal table td {
   padding: 1em 0.5em 1em 0.5em;
-}
+} */
 
 .footnote {
   color: gray;
