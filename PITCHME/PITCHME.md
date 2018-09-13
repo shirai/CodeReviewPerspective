@@ -1,15 +1,23 @@
----?color=#222222
+<!-- ---?color=#222222 -->
 
 ### コードを観る視点
 
-#### 「将来を見据えた息の長いコードを残す」ための<br>　判断基準
+#### 「将来を見据えた息の長いコードを残す」ための<br>　判断基準<br><br>
 
-#### 白井 誠<br>[@fa[github]@shirai](https://github.com/shirai)<br>[@fa[twitter]@shirai_makoto](https://twitter.com/shirai_makoto)<br>![icon](https://user-images.githubusercontent.com/16277668/41948274-ebbee344-79f6-11e8-8f2a-57fe6e2bf4ee.jpg)
+
+|白井 誠|![icon](https://user-images.githubusercontent.com/16277668/41948274-ebbee344-79f6-11e8-8f2a-57fe6e2bf4ee.jpg)
+|:--|:--
+|[@fa[github]@shirai](https://github.com/shirai)|
+|[@fa[twitter]@shirai_makoto](https://twitter.com/shirai_makoto)|
+
+
+
 
 ---
 
-### 今回の話
+### 今回の話（アジェンダ再掲）
 
+```
 普段アーキテクトとして複数PJのレビューをする機会があります。  
 そこで採用されているアーキテクチャは様々ですが、
 どんな言語・フレームワークでも変わらない観点は存在します。
@@ -17,12 +25,11 @@
 今回は "プログラミングの原理原則" から特に重視しているものを取り上げつつ、「将来を見据えた息の長いコードを残す」ための判断基準を紹介します。
 
 レビュー時はもちろんコーディングする機会にも参考にしていただきたいです。
+```
 
 ---
 
 ### 今まで触った言語
-
----
 
 | 現場 | 言語
 |:--|:--
@@ -36,6 +43,8 @@
 
 （趣味）
 Ruby, Python, Kotlin, ActionScript, AppleScript
+
+---
 
 #### どの現場で活かせる？
 
