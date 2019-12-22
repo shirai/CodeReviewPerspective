@@ -93,10 +93,6 @@
 
 ---
 
-# <div style="text-align: center;"><font color="yellow">！！！</font></div>
-
----
-
 言語・フレームワーク問わず、  
 
 ### <font color="yellow">どんな現場でも使える話！</font>
